@@ -1,0 +1,2 @@
+# tecnicabot
+about consulting
